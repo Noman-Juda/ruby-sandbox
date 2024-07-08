@@ -1,3 +1,3 @@
-my_string = ["Hello World",
-"How are your"]
-puts my_string
+my_string = "Hello World"
+pp my_string
+require "./goodbye.rb"
